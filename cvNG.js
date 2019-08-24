@@ -5,7 +5,7 @@ angular.module('cvngjs')
 
         function cvInit( $rootScope, $scope, $http, cvJSONFctr){ 
             $scope 	= $rootScope;
-            let jsonLoc = "https://jaydevdo.github.io/portal/docs/data/cv.json";
+            let jsonLoc = "cv.json";
 
             $scope.httpPromise  = $http.get( jsonLoc );
             $scope.httpPromise.then(function(response){

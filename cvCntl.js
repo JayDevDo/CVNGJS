@@ -4,7 +4,7 @@ app.factory(
     'cvJSONFctr', 
     ( $rootScope, $http )=>{
         if( !$rootScope.httpPromise ){ 
-            $rootScope.httpPromise  = $http.get( "https://jaydevdo.github.io/portal/docs/data/cv.json"); 
+            $rootScope.httpPromise  = $http.get( "cv.json"); 
         }
         // console.log("enter jdLegDartsPFactory (T3)") ;
         return	{
