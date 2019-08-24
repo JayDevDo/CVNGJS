@@ -60,9 +60,7 @@ angular.module('cvngjs')
                                     <li>
                                         <span class="jdHeader">pdf:</span>
                                         <span class="jdItem">
-                                            <a  href="../data/CV-JayVanDoormalen.pdf" 
-                                                target="_blank"
-                                            >
+                                            <a  href="https://jaydevdo.github.io/portal/docs/data/CV-JayVanDoormalen.pdf" target="_blank">
                                                 click to download
                                             </a>
                                         </span>
