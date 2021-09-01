@@ -50,7 +50,7 @@
             <li>
                 <span class="jdHeader">Tools used:</span> 
                 <span   class="jdItem" 
-                        ng-repeat="tool in job.toolsUsed"
+                        ng-repeat="tool in job.toolsUsed track by $id"
                 > - {{ tool }}
                 </span>
             </li>

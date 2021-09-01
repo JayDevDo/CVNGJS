@@ -181,7 +181,7 @@ angular.module('cvngjs')
                                 </h3>
                                 <div class="toolDetail">
                                     <ul>
-                                        <li ng-repeat="skill in value track by $id" >
+                                        <li ng-repeat="(skill) in value" >
                                             <span class="toolItem">{{ skill }}</span>
                                         </li>
                                     </ul>

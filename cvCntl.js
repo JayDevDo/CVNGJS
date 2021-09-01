@@ -4,9 +4,9 @@ app.factory(
     'cvJSONFctr', 
     ( $rootScope, $http )=>{
         if( !$rootScope.httpPromise ){ 
-            $rootScope.httpPromise  = $http.get( "cvNGv2-NL.json"); 
+            $rootScope.httpPromise  = $http.get( "CVNGJS.json"); 
         }
-        // console.log("enter jdLegDartsPFactory (T3)") ;
+      
         return	{
             getAllCVData:	()=>{
                 $rootScope.httpPromise.then( 
