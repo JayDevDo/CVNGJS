@@ -4,7 +4,7 @@ app.factory(
     'cvJSONFctr', 
     ( $rootScope, $http )=>{
         if( !$rootScope.httpPromise ){ 
-            $rootScope.httpPromise  = $http.get( "CVNGJS.json"); 
+            $rootScope.httpPromise  = $http.get( "cvngjs.json"); 
         }
       
         return	{
