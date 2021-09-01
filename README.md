@@ -1,5 +1,5 @@
 # CV-JQ
-My CV with Jquery(UI)
+My CV with Angular (JS)
 
 View on: https://jaydevdo.github.io/CVNGJS/index.html
 
