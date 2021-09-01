@@ -1,0 +1,520 @@
+[
+	{ 	"id": "jobs",
+		"data" 	:	[  
+                        {
+                            "jobTitle"  :           "Warehouse en tentenopbouw",
+                            "company"   :           "Vacansoleil",
+                            "startDate" :           "2021-04",
+                            "endDate"   :           "2021-06",
+                            "jobDescr"  :           "Preparing shipments to campsites and tent buiding of 5 sites in NL and DE",
+                            "countryAndlocation" :  "NL-Eindhoven",
+                            "languages" :           ["EN","NL","DE"],
+                            "toolsUsed" :           ["Rijbewijs"],
+                            "durationMonths" :      2,
+                            "jobDomain" :           ["Warehouse","Tourism"]
+                        },
+                        {
+                            "jobTitle"  :           "Bezorger",
+                            "company"   :           "Hello Fresh",
+                            "startDate" :           "2020-10",
+                            "endDate"   :           "2021-02",
+                            "jobDescr"  :           "Delivering in the south of NL and BE",
+                            "countryAndlocation" :  "NL-Reusel",
+                            "languages" :           ["NL"],
+                            "toolsUsed" :           ["Rijbewijs"],
+                            "durationMonths" :      5,
+                            "jobDomain" :           ["Warehouse"]
+                        },
+                        {
+                            "jobTitle"  :           "CS ",
+                            "company"   :           "BelVilla",
+                            "startDate" :           "2020-06",
+                            "endDate"   :           "2020-09",
+                            "jobDescr"  :           "Informing customers about Covid measures and voucher procedures",
+                            "countryAndlocation" :  "NL-Eindhoven",
+                            "languages" :           ["EN","NL","FR", "DE"],
+                            "toolsUsed" :           ["MS Office","Web browsers"],
+                            "durationMonths" :      3,
+                            "jobDomain" :           ["CS","Tourism"]
+                        },
+            {
+                "jobTitle" 	:			"Collections officer BE",
+                "company" 	:			"Genpact Bucharest",
+                "startDate" : 			"2019-08",
+                "endDate" 	: 			"2020-02",
+                "jobDescr" 	: 			"Urging Belgian companies to pay their invoices",
+                "countryAndlocation" :	"RO-Bucharest",
+                "languages" : 			["EN","NL","FR"],
+                "toolsUsed" :			["MS Office","Web browsers", "SAP-ERP"],
+                "durationMonths" :		7,
+                "jobDomain" :			["CS","Collections"]
+            },
+            {
+                "jobTitle" 	:			"Client Service Consultant – HR Solutions",
+                "company" 	:			"ADP Bucharest",
+                "startDate" : 			"2017-07",
+                "endDate" 	: 			"2019-01",
+                "jobDescr" 	: 			"Supporting and advising dutch customers on use of HR tools. Creating bug reports. Interaction with program developers",
+                "countryAndlocation" :	"RO-Bucharest",
+                "languages" : 			["EN","NL"],
+                "toolsUsed" :			["Siebel","MS Office","Web browsers"],
+                "durationMonths" :		19,
+                "jobDomain" :			["CS","IT"]
+            },
+            {
+                "jobTitle" 	:			"Customer service representative Dutch",
+                "company" 	:			"Telus International",
+                "startDate" : 			"2017-01",
+                "endDate" 	: 			"2017-07",  
+                "jobDescr" 	: 			"Email support for a users of a Dutch dating site",
+                "countryAndlocation" :	"RO-Bucharest",
+                "languages" : 			["NL"],
+                "toolsUsed" :			["Custom CRM program"],
+                "durationMonths" :		6,
+                "jobDomain" :			["CS"]
+            },
+            {
+                "jobTitle" 	:			"On line translator-proofreader and Web Development",
+                "company" 	:			"Free lance",
+                "startDate" : 			"2013-08",
+                "endDate" 	: 			"2016-12",
+                "jobDescr" 	: 			"Proofreading and translating survey/websites",
+                "countryAndlocation" :	"SW-Stockholm",
+                "languages" : 			["EN","NL"],
+                "toolsUsed" :			["JAVA SE7", "AngularJS" , "D3", "JQuery", "JSON", "MySQL on linux server 14x/16x", "Apache2/Lighttpd webserver" , "PHP7-fpm"],
+                "durationMonths" :		50,
+                "jobDomain" :			["IT"]
+            },
+            {
+                "jobTitle" 	:			"Customer service representative Dutch",
+                "company" 	:			"Monster Worldwide",
+                "startDate" : 			"2012-03",
+                "endDate" 	: 			"2013-07",
+                "jobDescr" 	: 			"Helping and advising (professional) users of Monster (jobsite) in NL and BE.",
+                "countryAndlocation" :	"CZ-Brno",
+                "languages" : 			["NL","EN","FR"],
+                "toolsUsed" :			["Siebel","SalesForce","Web browsers"],
+                "durationMonths" :		16,
+                "jobDomain" :			["CS","IT"]
+            },
+            {
+                "jobTitle" 	:			"Customer Support FR-NL",
+                "company" 	:			"Teleperformance Athens",
+                "startDate" : 			"2010-12",
+                "endDate" 	: 			"2012-01",
+                "jobDescr" 	: 			"Iphone Apple Care support representative (French) and Western Union Customer Service operator (Dutch).",
+                "countryAndlocation" :	"GR-Athens",
+                "languages" : 			["NL","FR","EN"],
+                "toolsUsed" :			["MAC-OS X","Open Office suite", "Apple CRM"],
+                "durationMonths" :		14,
+                "jobDomain" :			["CS","IT"]
+            },
+            {
+                "jobTitle" 	:			"Senior collections officer",
+                "company" 	:			"Anheuser Busch – Inbev",
+                "startDate" : 			"2009-01",
+                "endDate" 	: 			"2010-10",
+                "jobDescr" 	: 			"Restructuring Belgian national key accounts for collections after migration to SAP/ERP/R3.",
+                "countryAndlocation" :	"CZ-Prague",
+                "languages" : 			["NL","FR","EN"],
+                "toolsUsed" :			["SAP-ERP", "MS Office"],
+                "durationMonths" :		22,
+                "jobDomain" :			["CS","Collections"]
+            },
+            {
+                "jobTitle" 	:			"Scaffolding",
+                "company" 	:			"GSD",
+                "startDate" : 			"2008-09",
+                "endDate" 	: 			"2008-12",
+                "jobDescr" 	: 			"Assisting GSD certified Layer scaffolding. Material planning, elements delivery, ground assistance, scaffolding preperation (levelling, parts distribution),scaffolding finishing (netting, stairs, clean up)",
+                "countryAndlocation" :	"FR-Gap (01)",
+                "languages" : 			["FR"],
+                "toolsUsed" :			["Driving License B"],
+                "durationMonths" :		4,
+                "jobDomain" :			["Warehouse"]
+            },
+            {
+                "jobTitle" 	:			"logistics Assistant",
+                "company" 	:			"Tereva",
+                "startDate" : 			"2008-04",
+                "endDate" 	: 			"2008-07",
+                "jobDescr" 	: 			"Preparing routes for delivery of plumbing and bathroom goods",
+                "countryAndlocation" :	"FR-Bressoles (01)",
+                "languages" : 			["FR"],
+                "toolsUsed" :			["scanners", "BT"],
+                "durationMonths" :		6,
+                "jobDomain" :			["Warehouse"]							
+            },
+            {
+                "jobTitle" 	:			"logistics Assistant",
+                "company" 	:			"Adecco Oyonnax / Ronaldis",
+                "startDate" : 			"2007-11",
+                "endDate" 	: 			"2008-02",
+                "jobDescr" 	: 			"Preparing routes for delivery of bespoke terrace (sliding) doors",
+                "countryAndlocation" :	"FR-Oyonax (01)",
+                "languages" : 			["FR"],
+                "toolsUsed" :			["scanners", "BT"],
+                "durationMonths" :		4,
+                "jobDomain" :			["Warehouse"]							
+            },                        
+            {
+                "jobTitle" 	:			"Waiter",
+                "company" 	:			"JBD",
+                "startDate" : 			"2007-05",
+                "endDate" 	: 			"2007-08",
+                "jobDescr" 	: 			"Waiter for seaside restaurant",
+                "countryAndlocation" :	"FR-Cap d'Agde (34)",
+                "languages" : 			["FR","NL","EN","DE"],
+                "toolsUsed" :			["Electronic order device", "POS (credit card"],
+                "durationMonths" :		4,
+                "jobDomain" :			["CS","Tourism"]
+            },
+            {
+                "jobTitle" 	:			"Seasonal receptionist",
+                "company" 	:			"MMP holding",
+                "startDate" : 			"2007-01",
+                "endDate" 	: 			"2007-04",
+                "jobDescr" 	: 			"General reception duties in ski residences, camp-sites. Setting up a newly opened ski-residence in the French Alps. Organising the reception and reservations.",
+                "countryAndlocation" :	"FR-Saint-Sorlin-d'Arves (73), Vias (34), Gap (01), Cap d'Agde (34)",
+                "languages" : 			["FR","NL","EN","DE"],
+                "toolsUsed" :			["MS Office","self made Access/Excel database"],
+                "durationMonths" :		4,
+                "jobDomain" :			["CS","Tourism"]
+            },
+            {
+                "jobTitle" 	:			"Road-side assistance",
+                "company" 	:			"ANWB / ACTA assistence",
+                "startDate" : 			"2005-05",
+                "endDate" 	: 			"2006-12",
+                "jobDescr" 	: 			"Organising road-side assistance, providing rental cars and accommodation for VW/AUDI/Skoda drivers, within the budget limits of their insurance coverage.",
+                "countryAndlocation" :	"FR-Lyon",
+                "languages" : 			["FR","NL"],
+                "toolsUsed" :			["MS Office","CRM"],
+                "durationMonths" :		20,
+                "jobDomain" :			["CS"]
+            },
+            {
+                "jobTitle" 	:			"Warehouse/expedition operator",
+                "company" 	:			"iLogistics via Manpower",
+                "startDate" : 			"2002-10",
+                "endDate" 	: 			"2005-04",
+                "jobDescr" 	: 			"Order-picking, route preperation, loading, unloading, returns handling, Forklift, EU transport document preperation, quality control, team rotation planning.",
+                "countryAndlocation" :	"NL-Tilburg",
+                "languages" : 			["NL","EN"],
+                "toolsUsed" :			["SAP-ERP","Forklift","BT"],
+                "durationMonths" :		18,
+                "jobDomain" :			["Warehouse"]
+            },
+            {
+                "jobTitle" 	:			"Campsite representative",
+                "company" 	:			"Carazur",
+                "startDate" : 			"2002-04",
+                "endDate" 	: 			"2002-09",
+                "jobDescr" 	: 			"Providing customers with local information and assisting with urgencies (police/medical).",
+                "countryAndlocation" :	"FR-Vias",
+                "languages" : 			["NL","FR","EN","DE"],
+                "toolsUsed" :			["pen and paper", "public phones", "fax"],
+                "durationMonths" :		6,
+                "jobDomain" :			["CS","Tourism"]
+            }, 	
+            {
+                "jobTitle" 	:			"Order-picking",
+                "company" 	:			"AH Distribution center via temp agency",
+                "startDate" : 			"2001-11",
+                "endDate" 	: 			"2002-04",
+                "jobDescr" 	: 			"Order-picking for a big supermarket DC. Fruit/Dairy/Meat department",
+                "countryAndlocation" :	"NL-Tilburg",
+                "languages" : 			["NL","EN"],
+                "toolsUsed" :			["scanner", "BT", "Forklift"],
+                "durationMonths" :		6,
+                "jobDomain" :			["Warehouse"]
+            },
+            {
+                "jobTitle" 	:			"IT support",
+                "company" 	:			"Getronics",
+                "startDate" : 			"2001-09",
+                "endDate" 	: 			"2001-09",
+                "jobDescr" 	: 			"On site 1st and 2nd line IT support. Phone support for all MS Office products NL-FR. Contract cancelled during trial period due to 9/11",
+                "countryAndlocation" :	"NL-Tilburg",
+                "languages" : 			["NL", "FR"],
+                "toolsUsed" :			["MS Office", "Exchange"],
+                "durationMonths" :		1,
+                "jobDomain" :			["IT"]
+            },
+            {
+                "jobTitle" 	:			"IT support",
+                "company" 	:			"Wissenraet en Van Spaendonck",
+                "startDate" : 			"2000-11",
+                "endDate" 	: 			"2001-10",
+                "jobDescr" 	: 			"On site 1st and 2nd line IT support. Phone support for all MS Office products. Design and implementation of MS Word templates versions, Configuring & troubleshooting new hardware. Purchasing and maintenance of printers, routers and scanners. Supervising back-ups, Exchange server and Anti Virus admin.",
+                "countryAndlocation" :	"NL-Tilburg",
+                "languages" : 			["NL"],
+                "toolsUsed" :			["MS Office", "Exchange"],
+                "durationMonths" :		12,
+                "jobDomain" :			["IT"]
+            },
+            {
+                "jobTitle" 	:			"Customer Service and IT support insurance",
+                "company" 	:			"Interpolis",
+                "startDate" : 			"1997-08",
+                "endDate" 	: 			"2000-09",
+                "jobDescr" 	: 			"On site 1st and 2nd line IT support. Phone support for all MS Office products. Client-server database administrator (Sybase). Creating single user databases (MS Access). Functional application liaison. Creating complete documentation and user manual for in house HAVIK application. Batch (data) manipulation and execution of interfaces and back-ups (AS400). Back up admin.",
+                "countryAndlocation" :	"NL-Tilburg",
+                "languages" : 			["NL"],
+                "toolsUsed" :			["MS Office", "HAVIK", "SQL", "AS400"],
+                "durationMonths" :		38,
+                "jobDomain" :			["CS", "IT"]
+            },
+					
+            {
+                "jobTitle" 	:			"Warehouse and buiding site jobs via temp agencies",
+                "company" 	:			"temp agencies",
+                "startDate" : 			"1996-01",
+                "endDate" 	: 			"1997-06",
+                "jobDescr" 	: 			"Diverse array of jobs in warehouse and on building sites. Building site jobs include piling assistant, plaster wall installing",
+                "countryAndlocation" :	"NL-Tilburg",
+                "languages" : 			["NL"],
+                "toolsUsed" :			["BT", "Forklift", "carpentry"],
+                "durationMonths" :		18,
+                "jobDomain" :			["Warehouse", "Construction"]
+            },						
+            {
+                "jobTitle" 	:			"Education Assistant logistic manager",
+                "company" 	:			"",
+                "startDate" : 			"1995-01",
+                "endDate" 	: 			"1995-12",
+                "jobDescr" 	: 			"4 months theory and 8 months work experience in Helmond",
+                "countryAndlocation" :	"NL-Helmond",
+                "languages" : 			["NL"],
+                "toolsUsed" :			["MS Office", "Exact"],
+                "durationMonths" :		12,
+                "jobDomain" :			["Warehouse"]
+            },						
+            {
+                "jobTitle" 	:			"Campsite and montage Supervisor",
+                "company" 	:			"Eurocamp",
+                "startDate" : 			"1994-03",
+                "endDate" 	: 			"1994-10",
+                "jobDescr" 	: 			"With a crew of 8 setting up campsites (tents and mobile homes) in the region around Albi (81). Then supervising daily campsite operations in Vias (144 units). Leading a crew of 6 reps. Providing customers with local information and assisting with urgencies (police/medical).",
+                "countryAndlocation" :	"FR-Vias",
+                "languages" : 			["NL","FR","EN","DE"],
+                "toolsUsed" :			["pen and paper", "public phones", "fax"],
+                "durationMonths" :		8,
+                "jobDomain" :			["CS","Tourism"]
+            },
+            {
+                "jobTitle" 	:			"Non medical staff in care home",
+                "company" 	:			"De Hazelaar (via temp agency)",
+                "startDate" : 			"1993-11",
+                "endDate" 	: 			"1994-04",
+                "jobDescr" 	: 			"Helping with laundry rounds, meal transport",
+                "countryAndlocation" :	"NL-Tilburg",
+                "languages" : 			["NL"],
+                "toolsUsed" :			["BT", "Forklift"],
+                "durationMonths" :		6,
+                "jobDomain" :			["Warehouse"]
+            },
+            {
+                "jobTitle" 	:			"Senior campsite courier",
+                "company" 	:			"Eurocamp",
+                "startDate" : 			"1993-04",
+                "endDate" 	: 			"1993-10",
+                "jobDescr" 	: 			"Leading a team of 4 reps in Saumur. Providing local tourist information and supervising outsourced cleaning crew.",
+                "countryAndlocation" :	"FR-Saumur",
+                "languages" : 			["NL","FR","EN","DE"],
+                "toolsUsed" :			["pen and paper", "public phones", "fax"],
+                "durationMonths" :		7,
+                "jobDomain" :			["CS","Tourism"]
+            },
+            {
+                "jobTitle" 	:			"Several jobs in warehousing and food production via temp agencies",
+                "company" 	:			"temp agencies",
+                "startDate" : 			"1992-06",
+                "endDate" 	: 			"1993-03",
+                "jobDescr" 	: 			"General warehouse tasks like route loading, unloading, material handling",
+                "countryAndlocation" :	"NL-Tilburg",
+                "languages" : 			["NL"],
+                "toolsUsed" :			["BT", "Forklift"],
+                "durationMonths" :		10,
+                "jobDomain" :			["Warehouse"]
+            },
+            {
+                "jobTitle" 	:			"Orderpicking, packaging, expedition",
+                "company" 	:			"Colliboek-Uitg. Zwijssen",
+                "startDate" : 			"1991-06",
+                "endDate" 	: 			"1992-05",
+                "jobDescr" 	: 			"1 year youth contract for distribution center of educational publishing company",
+                "countryAndlocation" :	"NL-Tilburg",
+                "languages" : 			["NL"],
+                "toolsUsed" :			["Forklift"],
+                "durationMonths" :		12,
+                "jobDomain" :			["Warehouse"]
+            },	
+            {
+                "jobTitle" 	:			"Petrol station/shop attendant",
+                "company" 	:			"BP",
+                "startDate" : 			"1990-04",
+                "endDate" 	: 			"1991-05",
+                "jobDescr" 	: 			"Weekend and evening shifts at BP petrol station. Cash/credit card transactions, cleaning petrol pumps and shop, inventory,  ",
+                "countryAndlocation" :	"NL-Tilburg",
+                "languages" : 			["NL"],
+                "toolsUsed" :			["POS","high pressure cleaner"],
+                "durationMonths" :		14,
+                "jobDomain" :			["CS"]
+            },
+            {
+                "jobTitle" 	:			"Yearly summer jobs in warehousing and food production via temp agencies",
+                "company" 	:			"temp agencies",
+                "startDate" : 			"1988-06",
+                "endDate" 	: 			"1990-03",
+                "jobDescr" 	: 			"General warehouse tasks like route loading, unloading, material handling",
+                "countryAndlocation" :	"NL-Tilburg",
+                "languages" : 			["NL"],
+                "toolsUsed" :			["BT", "Forklift"],
+                "durationMonths" :		12,
+                "jobDomain" :			["Warehouse"]
+            }
+        ]
+	},
+	{	"id": "jobDomains",
+		"data": [
+					{	"domain": "CS", 		"duration": 173 },
+					{	"domain": "IT", 		"duration": 149 },
+					{	"domain": "Tourism", 	"duration": 39 },
+					{	"domain": "Warehouse", 	"duration": 36 },
+					{	"domain": "Collections","duration": 27 }
+				]
+	},
+	{	"id": "jobLocations",
+		"data": [
+					{ 	
+						"country":"NL",
+						"location": ["Tilburg"]
+					},
+					{ 
+						"country": "CZ",
+						"location": ["Prague", "Brno"]
+					},
+					{ 
+						"country": "GR",
+						"location": ["Athens"]
+					},
+					{ 
+						"country": "SW",
+						"location": ["Stockholm"]
+					},
+					{ 
+						"country": "RO",
+						"location": ["Bucharest"]
+					},
+					{ 
+						"country": "FR",
+						"location": ["Saumur (49)", "Vias (34)", "Lyon (69)", "Saint-Sorlin-d'Arves (73)", "Oyonnax (01)", "Cap d'Agde (34)" ,"Bressolles (01)", "Gap (05)"]
+					}
+				]
+	},
+	{	"id": "languages",
+		"data": [
+					{ "lcode":"NL", "lingo":"Dutch", 	"level":"native" },
+					{ "lcode":"EN", "lingo":"English", 	"level":"C1-native" },
+					{ "lcode":"FR", "lingo":"French", 	"level":"C1" },
+					{ "lcode":"DE", "lingo":"German", 	"level":"C2" },
+					{ "lcode":"CZ", "lingo":"Czech", 	"level":"A1" },
+					{ "lcode":"SW", "lingo":"Swedish", 	"level":"A1" },
+					{ "lcode":"ES", "lingo":"Spanish", 	"level":"A1" },
+					{ "lcode":"IT", "lingo":"Italian", 	"level":"A1" },
+					{ "lcode":"RO", "lingo":"Romanian", "level":"A1" }
+				]
+	},
+	{	"id": "tools",
+		"data": [
+			{ 
+				"platform": "windows", 
+				"skills": [ 
+							"MS Office (expert)",
+							"MS Outlook (expert)",
+							"MS Excel (expert)",
+							"MS Access (expert)",
+							"MS Word (expert)",
+							"Simple VBA programming (macros)",
+							"Internet explorer",
+							"windows configurations 95-98-2000-NT-Vista-7-10"
+		 				]  
+			},
+			{ 
+				"platform": "WebDev", 
+				"skills": 	[
+								"HTML",
+								"Java SE 7" ,
+								"Java SE 8",
+								"PHP(rpm)",
+								"AngularJS",
+								"JQuery",
+								"Bootstrap",
+								"(s)CSS",
+								"D3"
+							]  
+			},
+			{ 
+				"platform": "IT", 
+				"skills": 	[
+								"TCP/IP connectivity",
+								"Linux 14/15/16 - server+desktop",
+								"MySQL/MariaDB/PostgreSQL",
+								"Apache, Lighttpd",
+								"node-npm",
+								"Exchange",
+								"ActiveDirectory",
+								"Chrome (enterprise)"
+							]  
+			},
+			{ 
+				"platform": "Familiar with", 
+				"skills": 	[
+								"SAP-ERP",
+								"Angular 8",
+								"AS400",
+								"Lotus Notes",
+								"Apple/Mac OS-X",
+								"SalesForce (and a few other CRM like Siebel)",
+								"Git-Github",
+								"JIRA",
+								"citrix",
+								"Firefox, Safari, Opera, Slimjet"
+							]  
+			}
+		]
+	},
+	{	"id": "education",
+		"data": [
+					"1985-1990 - Gymnasium: Dutch, English, French, German, History, National- and business economics",
+					"1990-1991 - First year of the Dutch University of Tourism in Breda",
+					"1995-1995 - Assistant logistics manager", 
+					"1998 - Sybase SQL basics",
+					"1999 - ITIL Foundations"
+				]
+	},
+	{	"id": "profile",
+        "data": [
+            "Ik ben een Nederlander die al meer dan 15 jaar in Europa heeft gewerkt. Meestal in functies waarin veel klantcontact vereist was. Vanwege de Covid-19 crisis ben ik werkeloos geworden in Roemenië.",
+            " ",
+            "Na mijn terugkeer ben ik zeer flexibel in de lokatie waar ik ga werken, maar mijn voorkeur gaat uit naar Brabant, Groningen of Friesland, het liefst in een wat kleinere stad of dorp. Ik heb de afgelopen jaren in zeer grote steden gewoond en ben op zoek naar een rustigere woonomgeving.",
+            " ",
+            "Zoals jullie op mijn CV kunnen zien, heb ik meerdere jaren ervaring in warehouse/logistieke functies. Ook in Frankrijk heb ik een tijdje via uitzendburo's als lader/losser gewerkt gedurende de financiële crisis van 2008/2009.",
+            " ",
+            "Mijn logistieke ervaring in Nederland dateert nog uit de tijd dat men niet overal een certificaat voor nodig had. Ik heb echter in NL vaak op de heftruck gereden (schadevrij, maar niet supersnel) en ook BT'tjes in allerlei vormen zijn voor mij geen probleem.",
+            " ",
+            "Ik spreek vloeiend Engels, Frans en Duits en heb veel ervaring met IT. Ik heb echter gemerkt dat mijn gezichtsvermogen achteruit is gegaan, en vanwege een 'lui oog' is continu computerwerk geen optie meer. Geen paniek, want met voldoende licht zie ik de zaken nog zeer helder!",
+            " ",
+            "Helaas is mijn rijbewijs verlopen tijdens mijn verblijf in de EU en ik zal de bureacratische wandelgangen moeten doorlopen om deze weer aktief te krijgen. Daarna ben ik nog breder inzetbaar. Ik werk graag avonddiensten en weekends om op die manier meer te verdienen."
+        ]
+	},
+	{	"id": "contact",
+		"data": [
+					{ "item": "email", 			"value": "spamjaydo@gmail.com" },
+					{ "item": "phone/skype", 	"value": "on request" },
+					{ "item": "pdf", 			"value": "CV-JayVanDoormalen.pdf" },
+					{ "item": "host", 			"value": "" }
+				]
+	}
+]

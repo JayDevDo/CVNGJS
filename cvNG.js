@@ -5,18 +5,21 @@ angular.module('cvngjs')
 
         function cvInit( $rootScope, $scope, $http, cvJSONFctr){ 
             $scope 	= $rootScope;
-            let jsonLoc = "cv.json";
+            let jsonLoc = "cvNGv2-NL.json";
+            $scope.dataArr = ["jobs", "jobDomains", "jobLocations", "languages", "tools", "education", "profile", "contact" ];
+            $scope.dataIdx = (item)=>{ return $scope.dataArr.indexOf(item); }
+            console.log("dataIdx jobs", $scope.dataIdx("jobs") );
 
             $scope.httpPromise  = $http.get( jsonLoc );
             $scope.httpPromise.then(function(response){
-                $scope.cvContact    = response.data["contact"];
-                $scope.cvEducations = response.data["education"];
-                $scope.cvJobs       = response.data["jobs"];
-                $scope.cvDomains    = response.data["jobDomains"];
-                $scope.cvLanguages  = response.data["languages"];
-                $scope.cvLocations  = response.data["jobLocations"];
-                $scope.cvProfile    = response.data["profile"];
-                $scope.cvTools      = response.data["toolsSkills"];
+                $scope.cvContact    = response.data[7];
+                $scope.cvEducations = response.data[5];
+                $scope.cvJobs       = response.data[0];
+                $scope.cvDomains    = response.data[1];
+                $scope.cvLanguages  = response.data[3];
+                $scope.cvLocations  = response.data[2];
+                $scope.cvProfile    = response.data[6];
+                $scope.cvTools      = response.data[4];
                 console.log("enter cvInit: arrays loaded from js:", ($scope.cvJobs.length>0) );  
             });
 
@@ -33,13 +36,13 @@ angular.module('cvngjs')
             }
 
             const cvkeyArr =    [    
-                "profile",
                 "jobs",
                 "jobDomains",
-                "languages",
-                "education",
-                "toolsSkills",
                 "jobLocations",
+                "languages",
+                "tools",
+                "education",
+                "profile",
                 "contact"
             ];
         
