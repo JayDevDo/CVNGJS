@@ -154,7 +154,7 @@ angular.module('cvngjs')
                                 >
                                     <span>{{ key }}</span>
                                     <ul>
-                                        <li ng-repeat="city in value track by $id" >
+                                        <li ng-repeat="(key, city) in value track by $key" >
                                             <span>{{ city }}</span>
                                         </li>
                                     </ul>
