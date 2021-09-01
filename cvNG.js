@@ -5,7 +5,7 @@ angular.module('cvngjs')
 
         function cvInit( $rootScope, $scope, $http, cvJSONFctr){ 
             $scope 	= $rootScope;
-            let jsonLoc = "cvNGv2-NL.json";
+            let jsonLoc = "cvngjs.json";
             $scope.dataArr = ["jobs", "jobDomains", "jobLocations", "languages", "tools", "education", "profile", "contact" ];
             $scope.dataIdx = (item)=>{ return $scope.dataArr.indexOf(item); }
             console.log("dataIdx jobs", $scope.dataIdx("jobs") );
